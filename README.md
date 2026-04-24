@@ -78,4 +78,4 @@ Hi, I'm Anupama Piyadigama!
 </p>
 <br>
 
-⭐️ From Piyumi Piyadigama
+⭐️ From Anupama Piyadigama
