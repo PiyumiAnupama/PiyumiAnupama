@@ -1,20 +1,20 @@
 <h1 align="center">
 Hi, I'm Anupama Piyadigama!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=PiyumiAnupama&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="PiyumiAnupama" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://komarev.com/ghpvc/?username=PiyumiAnupama&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="PiyumiAnupama" />
 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;UI/UX+Designer;Web+%26+Mobile+Developer;Graphic+Designer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analyst;Software+Engineer;UI/UX+Designer;Web+%26+Mobile+Developer;Graphic+Designer&center=true&width=440&height=45"></a>
 </p>
 <hr/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="500"/>
 <h2> 👨🏻‍💻 About Me </h2>
 
-👩‍💻 Freelancing Software Engineer 
+📊 Business Analyst with hands-on experience in requirements engineering, stakeholder analysis, SQL based data analysis, and business process documentation a self directed portfolio spanning banking, healthcare, and retail case studies.
 
 🎓 BSc Hons in Information Technology.
 
@@ -24,27 +24,32 @@ Hi, I'm Anupama Piyadigama!
 
 🎨 UI/UX Designer and Graphic Designer, focused on intuitive and visually appealing interfaces.
 
-📚 Part-time visiting lecturer in Database Management and Cybersecurity.
+📚 Part time visiting lecturer in Database Management and Cybersecurity.
 
 ✨ In my free time, I enjoy trying out the latest design trends, watching TV series and films, and traveling.
 <br><br>
 
 <h2>🛠 Tech Stack</h2>
 
-💻   React | Python | Java | PHP | LARAVEL | Java Script
+📊   Business Analysis | Requirements Engineering | Stakeholder Analysis | Process Mapping
 
-🌐   Full-Stack | HTML | CSS | MERN | WordPress
+🛢   SQL | Data Analysis | Power BI | Excel
 
-🛢   MySQL | Firebase | MongoDB
+💻   React | Python | Java | PHP | LARAVEL | Java Script
 
-🔧   Figma | Adobe Xd |Illustrator | Photoshop 
+🌐   Full-Stack | HTML | CSS | MERN | WordPress
 
-🖥    | Git | Postman | VS Code
+🛢   MySQL | Firebase | MongoDB
+
+🔧   Figma | Adobe Xd |Illustrator | Photoshop 
+
+🖥    | Git | Postman | VS Code
 <br><br>
 <div align="left"> 
 <h2 align="left">🚀 Tools & Technologies :</h2>
 
 <p align="left">
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -62,18 +67,19 @@ Hi, I'm Anupama Piyadigama!
 </p>
 </div>
 
-<br>
 
+<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <div align="left">
- <a href="https://www.behance.net/piyumianupama1" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anupamapiyadigama" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PiyumiAnupama" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.anupama.onrender.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-  <a href="mailto:anupamapgp@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://app.notion.com/p/IT-Business-Analyst-Portfolio-3a7a7441bbf880679b47d0587b08ea9e?source=copy_link" target="_blank"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+ <a href="https://www.behance.net/piyumianupama1" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anupamapiyadigama" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PiyumiAnupama" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.anupama.onrender.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="mailto:anupamapgp@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 </p>
 <br>
